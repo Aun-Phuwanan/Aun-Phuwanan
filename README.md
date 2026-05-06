@@ -1,82 +1,83 @@
+<h1 align="center">Hi there, I'm Aun-Phuwanan</h1>
+
 <p align="center">
-  <img src="./assets/pixellab-profile-banner.png" alt="Aun-Phuwanan pixel 2D frontend quest banner" width="100%" />
+  <img src="./assets/pixellab-cozy-banner.png" alt="Cozy pixel art developer room banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLASS-Frontend%20Adventurer-65F2D5?style=for-the-badge&labelColor=0D1324&color=65F2D5" alt="Frontend Adventurer" />
-  <img src="https://img.shields.io/badge/STYLE-Pixel%202D%20Game-FFD166?style=for-the-badge&labelColor=0D1324&color=FFD166" alt="Pixel 2D Game" />
-  <img src="https://img.shields.io/badge/HOME-Bueng%20Kan,%20Thailand-F05D8E?style=for-the-badge&labelColor=0D1324&color=F05D8E" alt="Bueng Kan Thailand" />
+  <img src="https://img.shields.io/badge/Frontend-Vue%20%2F%20Nuxt-65F2D5?style=for-the-badge&labelColor=101827" alt="Vue and Nuxt" />
+  <img src="https://img.shields.io/badge/UI-Pixel%202D%20Web-FFD166?style=for-the-badge&labelColor=101827" alt="Pixel 2D Web" />
+  <img src="https://img.shields.io/badge/Home-Bueng%20Kan%2C%20Thailand-E95D8B?style=for-the-badge&labelColor=101827" alt="Bueng Kan Thailand" />
 </p>
-
-```
-+--------------------------------------------------------------------------+
-| PLAYER: Phuwanan Noiwaengpim                                             |
-| TAG:    Aun-Phuwanan                                                     |
-| ROLE:   Frontend developer who likes game-like UI, clean pages, and bots |
-| STACK:  Vue / Nuxt / React / Next / TypeScript / Tailwind                |
-+--------------------------------------------------------------------------+
-```
-
-## STATUS BOARD
 
 <table>
   <tr>
-    <td><b>LV.26</b><br />Profile in progress</td>
-    <td><b>2</b><br />Featured worlds</td>
-    <td><b>3</b><br />Main frontend skills</td>
-    <td><b>24H</b><br />Quest ready</td>
+    <td width="170" align="center">
+      <img src="./assets/pixellab-dev-avatar.png" alt="Pixel art developer avatar" width="128" />
+    </td>
+    <td>
+      <h3>Pixel Art Web Developer</h3>
+      <p>
+        I build playful frontend interfaces with Vue, Nuxt, React, Next.js,
+        Tailwind CSS, and TypeScript. I like web pages that feel like small
+        game worlds: clear, responsive, warm, and fun to explore.
+      </p>
+      <p>
+        Current vibe: cozy retro workspace, clean UI, limited palette, and
+        professional game-asset edges.
+      </p>
+    </td>
   </tr>
 </table>
 
-## QUEST LOG
-
-| Rank | World | Tech | Mission |
-| --- | --- | --- | --- |
-| 01 | [ProfileWeb](https://github.com/Aun-Phuwanan/ProfileWeb) | Vue / Nuxt / Tailwind | Personal web profile with chat bot, news board, i18n, dark mode, and PWA setup. |
-| 02 | [Pantip](https://github.com/Aun-Phuwanan/Pantip) | Next / React / Tailwind | Forum-style community UI with cards, topics, navbar, and content routes. |
-
-## SKILL INVENTORY
-
-<p>
-  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/Nuxt-0D1324?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/React-0D1324?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1324?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1324?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1324?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+<p align="center">
+  <img src="./assets/pixellab-divider.png" alt="Pixel digital cable divider" width="80%" />
 </p>
 
-## WORLD MAP
+## Tech Stack
 
-```txt
-[ HOME BASE ] ----> [ PROFILEWEB ]
-     |                    |
-     |                    +-- Chat bot room
-     |                    +-- News board
-     |                    +-- Language / theme system
-     |
-     +------------> [ PANTIP ]
-                          |
-                          +-- Forum cards
-                          +-- Topic routes
-                          +-- UI components
-```
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>Vue.js, Nuxt, React, Next.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Language</b></td>
+    <td>TypeScript, JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Game UI Taste</b></td>
+    <td>Pixel art, 16-bit UI, retro HUD, cozy isometric layouts</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>GitHub, Vercel, Firebase, PWA workflows</td>
+  </tr>
+</table>
 
-## GITHUB SAVE DATA
+## Current Project
 
-| Slot | Save File | Status |
+> **Pixel Defense Earth**  
+> Building a retro space defense game with a mobile-first pixel UI direction.
+
+## Featured Worlds
+
+| Project | Stack | What it shows |
 | --- | --- | --- |
-| A | Profile README world | Active |
-| B | Vue / Nuxt project route | Open |
-| C | React / Next project route | Open |
-
-## CURRENT MAIN QUEST
-
-- Build frontend pages that feel clear, playful, and responsive.
-- Turn normal web screens into small game-like worlds.
-- Keep learning better UI architecture, reusable components, and typed code.
-- Ship projects that look alive on desktop and mobile.
+| [ProfileWeb](https://github.com/Aun-Phuwanan/ProfileWeb) | Vue / Nuxt / Tailwind | Personal web profile, chatbot, news board, i18n, dark mode, PWA setup |
+| [Pantip](https://github.com/Aun-Phuwanan/Pantip) | Next / React / Tailwind | Forum-style cards, topic routes, reusable UI components |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/READY-FOR%20NEXT%20QUEST-65F2D5?style=for-the-badge&labelColor=0D1324&color=65F2D5" alt="Ready for next quest" />
+  <img src="./assets/pixellab-divider.png" alt="Pixel digital cable divider" width="80%" />
+</p>
+
+## Pixel Dev Notes
+
+- Limited palette first: navy, teal, amber, soft pink.
+- Clean edges over noisy detail.
+- UI should feel retro, but still read like a modern developer profile.
+- Every section should feel like a small screen in a 2D game menu.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Save%20File-Profile%20README%20Active-65F2D5?style=for-the-badge&labelColor=101827" alt="Profile README active" />
 </p>
