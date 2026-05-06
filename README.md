@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td><b>LV.26</b><br />Profile in progress</td>
-    <td><b>2</b><br />Public worlds scanned</td>
+    <td><b>2</b><br />Featured worlds</td>
     <td><b>3</b><br />Main frontend skills</td>
     <td><b>24H</b><br />Quest ready</td>
   </tr>
@@ -64,10 +64,11 @@
 
 ## GITHUB SAVE DATA
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aun-Phuwanan&show_icons=true&hide_border=true&bg_color=0D1324&title_color=65F2D5&text_color=F4FBFF&icon_color=FFD166" alt="Aun-Phuwanan GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aun-Phuwanan&layout=compact&hide_border=true&bg_color=0D1324&title_color=65F2D5&text_color=F4FBFF" alt="Aun-Phuwanan top languages" height="165" />
-</p>
+| Slot | Save File | Status |
+| --- | --- | --- |
+| A | Profile README world | Active |
+| B | Vue / Nuxt project route | Open |
+| C | React / Next project route | Open |
 
 ## CURRENT MAIN QUEST
 
