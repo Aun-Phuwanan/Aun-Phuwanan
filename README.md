@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aun-Phuwanan</h1>
+<h1 align="center">Hi, I'm Aun</h1>
 
 <p align="center">
   <b>Web Developer</b> who enjoys clean interfaces, frontend tools, and pixel art aesthetics.
