@@ -34,8 +34,8 @@ I also like pixel art as a light visual style for personal projects.
 
 | Project | Stack | Notes |
 | --- | --- | --- |
-| [AUN-PN](https://github.com/AUN-PN/AUN-PN) | Markdown / GitHub profile | Profile README for the `AUN-PN` GitHub profile |
 | [unity-agent-workflows](https://github.com/AUN-PN/unity-agent-workflows) | JavaScript / Codex skill | AI-assisted Unity game workflow, architecture, runtime-owner proof, and validation |
+| Game Project | Unity / C# | Status: กำลังทำ |
 
 ## What I Like Building
 
