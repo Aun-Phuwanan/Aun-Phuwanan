@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aun</h1>
 
 <p align="center">
-  <b>Phuwanan Noiwaengpim</b> · Web Developer · <code>AUN-PN</code>
+   Web Developer 
 </p>
 
 <p align="center">
